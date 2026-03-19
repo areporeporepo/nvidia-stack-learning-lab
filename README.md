@@ -28,22 +28,25 @@ As of **March 19, 2026**, the working thesis of this repo is that `2028` matters
 1. Read [docs/how-the-stack-fits.md](docs/how-the-stack-fits.md).
 2. Read [docs/roadmap.md](docs/roadmap.md).
 3. Read [docs/power-and-scale.md](docs/power-and-scale.md).
-4. Read [docs/research-method.md](docs/research-method.md).
-3. Run the simulator:
+4. Read [docs/thermodynamics.md](docs/thermodynamics.md).
+5. Read [docs/keynote-roadmap.md](docs/keynote-roadmap.md).
+6. Read [docs/events-2026.md](docs/events-2026.md).
+7. Read [docs/research-method.md](docs/research-method.md).
+8. Run the simulator:
 
 ```bash
 python3 -m sim.fabric_sim --preset dual_gpu_nvlink --size-gb 16
 python3 -m sim.fabric_sim --preset nvswitch_box --source GPU0 --target GPU7 --size-gb 32
 ```
 
-5. Generate the forecast assets:
+9. Generate the forecast assets:
 
 ```bash
 python3 scripts/generate_projection_assets.py
 ```
 
-6. Work through [labs/first-week.md](labs/first-week.md).
-7. Use [labs/contribute.md](labs/contribute.md) to start contributing upstream.
+10. Work through [labs/first-week.md](labs/first-week.md).
+11. Use [labs/contribute.md](labs/contribute.md) to start contributing upstream.
 
 ## Repo Layout
 
