@@ -1,0 +1,44 @@
+[
+  {
+    "id": "computex-2026",
+    "title": "COMPUTEX 2026",
+    "url": "https://www.computextaipei.com.tw/en/index.html",
+    "category": "conference"
+  },
+  {
+    "id": "isc-2026",
+    "title": "ISC High Performance 2026",
+    "url": "https://isc-hpc.com/",
+    "category": "conference"
+  },
+  {
+    "id": "siggraph-2026",
+    "title": "SIGGRAPH 2026",
+    "url": "https://s2026.siggraph.org/",
+    "category": "conference"
+  },
+  {
+    "id": "hot-chips-2026",
+    "title": "Hot Chips 2026",
+    "url": "https://hotchips.org/",
+    "category": "conference"
+  },
+  {
+    "id": "ocp-global-summit-2026",
+    "title": "OCP Global Summit 2026",
+    "url": "https://www.opencompute.org/summit/global-summit",
+    "category": "conference"
+  },
+  {
+    "id": "sc26",
+    "title": "SC26",
+    "url": "https://sc26.supercomputing.org/",
+    "category": "conference"
+  },
+  {
+    "id": "stanford-gsb-jensen-watch",
+    "title": "Stanford GSB View From The Top: Jensen Huang",
+    "url": "https://www.gsb.stanford.edu/events/view-top-jensen-huang",
+    "category": "watchlist"
+  }
+]

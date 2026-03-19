@@ -54,6 +54,7 @@ python3 scripts/generate_projection_assets.py
 - `docs/`: architecture notes and roadmap comparisons
 - `events/`: event-specific notes, claims, and update checkpoints
 - `automation/`: key-safe update workflow notes
+- `.github/workflows/`: scheduled automation for future event tracking
 - `labs/`: guided hands-on exercises and contribution ideas
 - `forecast/`: power, efficiency, and token output scenario model
 - `sim/`: conceptual topology simulator
@@ -69,6 +70,7 @@ ruff check .
 pytest
 python3 -m sim.fabric_sim --preset workstation_pcie
 python3 scripts/generate_projection_assets.py
+python3 scripts/update_future_events.py --dry-run
 ```
 
 ## Suggested Companion Repos
