@@ -99,4 +99,3 @@ Treat keynote claims as hypotheses to track over time. The repo should keep sepa
 - what NVIDIA or other companies officially said
 - what has shipped
 - what is still roadmap
-- what this repo infers from public data
